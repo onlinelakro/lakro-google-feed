@@ -22359,8 +22359,9 @@ Set 2 stuks
 
 
  </description>
-<g:availability>out of stock</g:availability>
-<g:price>14.95 EUR</g:price>
+<g:availability>in stock</g:availability>
+<g:price>27.50 EUR</g:price>
+<g:sale_price>15.95 EUR</g:sale_price>
 <g:image_link>https://primary.jwwb.nl/public/q/o/m/temp-caggbbhfnqdjdwgykmih/1200x1200-standard-xrkbqv.jpg</g:image_link>
 <g:brand>nan</g:brand>
 <g:condition>new</g:condition>
